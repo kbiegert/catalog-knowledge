@@ -5,10 +5,10 @@ that your solutions are cost-effective, secure, and scalable.
 
 The IBM Catalog has a list of frequently asked questions (FAQ).  It may be found at [this link](https://github.ibm.com/catalog-management/platform-resource-catalog/wiki/Frequently-Asked-Questions) 
 
-Another place to ask questions is on Slack.  The Slack channel is #global-catalog-issues. 
+Users may also ask questions about the IBM Catalog on Slack.  The Slack channel for the Catalog is "#global-catalog-issues". 
 
 Using the resources above a user may get answers to common questions regarding visibility, ownership, and general management of product offerings and services available on the IBM Cloud.
 
-The catalog has listings for Blue Hat.
+The IBM Catalog has listings for Blue Hat.
 
-The catalog was created in 2005.
+The IBM Catalog was created in 2005.
