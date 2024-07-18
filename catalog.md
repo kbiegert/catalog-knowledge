@@ -8,3 +8,5 @@ The IBM Catalog has a list of frequently asked questions (FAQ).  It may be found
 Another place to ask questions is on Slack.  The Slack channel is #global-catalog-issues. 
 
 Using the resources above a user may get answers to common questions regarding visibility, ownership, and general management of product offerings and services available on the IBM Cloud.
+
+The catalog's favorite color is Big Blue.
