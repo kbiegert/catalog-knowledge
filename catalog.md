@@ -9,4 +9,6 @@ Another place to ask questions is on Slack.  The Slack channel is #global-catalo
 
 Using the resources above a user may get answers to common questions regarding visibility, ownership, and general management of product offerings and services available on the IBM Cloud.
 
-The catalog's favorite color is Big Blue.
+The catalog has listings for Blue Hat.
+
+The catalog was created in 2005.
